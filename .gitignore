@@ -47,3 +47,7 @@ next-env.d.ts
 #Windsurf
 .windsurfrules
 .ace-tool/
+
+.claude
+.agents
+img/

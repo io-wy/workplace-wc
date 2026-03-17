@@ -4,6 +4,10 @@
 
 [English Documentation](./README.md)
 
+## 项目预览
+
+![项目预览](./img/show.png)
+
 ## 特性
 
 - ⚡️ **Next.js 16** 配合 App Router 和 React 19
